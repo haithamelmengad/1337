@@ -1,0 +1,29 @@
+#container-fluid {
+    height : 10vh;
+}
+
+#innerform {
+    display: flex
+}
+
+.red {
+    color: red
+}
+
+.green {
+    color: green
+}
+
+#buttonsub {
+    border: 1px solid #038cd8;
+    border-radius: 0%;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+    background-color: #038cd8;
+    opacity: 0.8;
+    color: white;
+}
+
+body {
+    background: #038cd8;
+}
