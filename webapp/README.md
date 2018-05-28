@@ -22,7 +22,7 @@ $ npm start
 Then open your browser at http://localhost:3000/ or run the following command:
 
 ```
-$ npm run backend-dev
+$ npm run open
 ```
 
 ## Built With
@@ -30,5 +30,5 @@ $ npm run backend-dev
 * [jQuery](http://jquery.com/) - DOM manipulation
 * [SQLite](https://www.sqlite.org/) - SQL db
 * [Express-js](http://expressjs.com/) - Networking
-* [Bootstrap] (https://getbootstrap.com/) - Frontend
+* *Bootstrap* (https://getbootstrap.com/) - Frontend
 
